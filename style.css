@@ -1,6 +1,17 @@
-header{
-    background-color:rgb(255, 255, 255)
+h1{
+    background-color: #ff0000;
+    color: #fcfcfc;
+    height: 60;
+  }
+
+  #spfc {
+	position: absolute; 
+	left: 280px; /* posiciona a 90px para a esquerda */ 
+	top: 25px; /* posiciona a 70px para baixo */
+	}
+
+
+h2{
+  background-color: antiquewhite;
 }
-h3{
-    background-color: rgb(255, 255, 255);
-}
+
