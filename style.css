@@ -1,17 +1,35 @@
-h1{
+body{
     background-color: #ff0000;
-    color: #fcfcfc;
-    height: 60;
   }
-
-  #spfc {
-	position: absolute; 
-	left: 280px; /* posiciona a 90px para a esquerda */ 
-	top: 25px; /* posiciona a 70px para baixo */
-	}
-
-
-h2{
-  background-color: antiquewhite;
-}
-
+  h1{
+  
+      background-color: #ff0000;
+      color: #fcfcfc;
+      height: 60;
+      text-align: center;
+  
+    }
+  
+    #spfc {
+      position: absolute; 
+      left: 1800px; 
+      top: 22px; 
+      }
+  
+  
+  h2{
+    background-color: antiquewhite;
+  }
+  
+  button{
+    background-color: #ffffff;
+    position: absolute;
+    left: 1500px;
+    top: 11px;
+  }
+  .IG{
+    color: rgb(0, 0, 0);
+  }
+  h1{
+    color: black;
+  }
